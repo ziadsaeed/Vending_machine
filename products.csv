@@ -1,0 +1,19 @@
+donations ,5.500000
+income ,64.500000
+name,serial,price,quantity,category
+trident ,24 ,0.500000 ,79 ,s
+clorets ,568 ,0.500000 ,98 ,s
+chipsy ,567 ,2.000000 ,18 ,s
+borio ,751 ,2.000000 ,20 ,s
+molto ,547 ,3.000000 ,20 ,s
+doritos ,853 ,4.000000 ,20 ,s
+oreo ,857 ,4.000000 ,20 ,s
+seven-up ,785 ,4.500000 ,13 ,b
+sprite ,854 ,5.000000 ,20 ,b
+cola ,12 ,5.000000 ,15 ,b
+pepsi ,740 ,5.500000 ,15 ,b
+fanta ,452 ,6.000000 ,20 ,b
+cadbury ,56 ,7.000000 ,20 ,s
+kleopatra ,85 ,20.000000 ,30 ,c
+LM ,72 ,30.000000 ,30 ,c
+merit ,85 ,40.000000 ,29 ,c
