@@ -643,8 +643,9 @@ void main()
     const char password[10]="ziadsaeed";
     struct node*p1;
     read();
+    printf("-Code Written by Ziad Saeed \n-To add items type '3' and the password is 'ziadsaeed'\n\n\n\n");
 repeat:
-    printf("\t\t\tWELCOME\n\n");
+    printf("\t\t\t WELCOME \n\n");
     do
     {
         printf("1-menu\n2-search\n");
@@ -674,11 +675,12 @@ repeat:
             else
                 search(1);
             break;
-        case 12:
-        {
+        case 3:
+        {i=0;
             printf("password : ");
             do
             {
+
                 n[i]=getch();
                 if(n[i]!='\r')
                 {
@@ -817,7 +819,9 @@ repeat:
                 }
             }
             else
-                printf("\n\t\twrong :D\n");
+                {
+                    printf("\n\t\twrong :D\n");
+                }
             break;
         }
         default :
